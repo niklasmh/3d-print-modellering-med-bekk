@@ -466,7 +466,7 @@ Gå til https://app.sketchup.com
 
 Gå til https://app.sketchup.com
 
-![bg right contain](cube.png)
+![bg right contain](cube-task.png)
 
 ---
 
