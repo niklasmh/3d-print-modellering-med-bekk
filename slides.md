@@ -767,27 +767,21 @@ Support kan fikses automatisk av 3D-printer software
 
 ---
 
-### Code
+# [Slicers](https://www.youtube.com/watch?v=8sxlyuN6xso&ab_channel=Advancedengineeringtechnologies)
 
-Python:
-
-```python
-from solid import *
-from solid.utils import *
-Cube = cube(10)
-scad_render_to_file(Cube, "cube.scad")
-```
 ---
 
-# Bruke 3D-scanner!
+# [Bruke 3D-scanner!](https://www.youtube.com/watch?v=91HX5gep-I8&ab_channel=AndrewSink)
 
 ---
 
 # Hvor kan vi i duppedingsgruppa 3D-printe det vi lager?
 
-- Jeg har en printer
+- Jeg har en printer og tar mot bestillinger
+  - Gratis foreløpig (for Bekkere)
 - Vi kan bli medlem av diverse DIY i Trondheim
   - Hackheim (Work Work)
+  - Vitensenteret
   - Gløs (MakeNTNU og Omega Verksted)
 - Bestille fra nett
 - Kjøpe printer selv
