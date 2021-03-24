@@ -128,7 +128,7 @@ ol > li:not(:last-child) {
 
 # Forme plastikk i det fysiske 3D-univers 🖨️🗿
 ## Niklas M. Hole
-### 26. Mars 2021
+### 24. Mars 2021
 
 ---
 
