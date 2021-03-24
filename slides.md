@@ -4,7 +4,6 @@ marp: true
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Spectral:wght@300&display=swap');
-@import 'vscode-theme.css';
 
 section {
   padding: 40px;
